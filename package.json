@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "microservice for k8",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farukak/node.git"
+  },
+  "author": "faruk ak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farukak/node/issues"
+  },
+  "homepage": "https://github.com/farukak/node#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
